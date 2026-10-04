@@ -1,0 +1,6 @@
+promo_id,brand,category,discount_percent,min_purchase,description
+PROMO01,Nike,Running Shoes,10,3000,10% off Nike running shoes above Rs.3000
+PROMO02,Adidas,Running Shoes,15,3500,15% off Adidas running shoes above Rs.3500
+PROMO03,Puma,Running Shoes,10,3000,10% off Puma running shoes above Rs.3000
+PROMO04,Nike,Socks,5,500,5% off Nike socks
+PROMO05,Adidas,T-Shirt,10,1000,10% off Adidas T-Shirts

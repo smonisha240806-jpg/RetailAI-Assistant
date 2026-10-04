@@ -1,0 +1,17 @@
+product_id,product_name,brand,category,color,size,price,stock,rating
+P001,Nike Revolution 7,Nike,Running Shoes,Black,8,4499,3,4.5
+P002,Nike Revolution 7,Nike,Running Shoes,Black,9,4499,0,4.5
+P003,Nike Downshifter 13,Nike,Running Shoes,White,8,3999,5,4.3
+P004,Adidas Runfalcon 5,Adidas,Running Shoes,Black,8,3799,6,4.4
+P005,Puma Softride Enzo,Puma,Running Shoes,Black,8,4299,2,4.2
+P006,Adidas Ultraboost Light,Adidas,Running Shoes,White,9,8999,2,4.8
+P007,Nike Air Max SC,Nike,Casual Shoes,White,8,5999,4,4.6
+P008,Puma Smashic,Puma,Casual Shoes,Black,8,2999,7,4.1
+P009,Nike Everyday Socks,Nike,Socks,Black,Free Size,699,15,4.4
+P010,Adidas Performance Socks,Adidas,Socks,White,Free Size,599,12,4.3
+P011,Nike Dri-FIT T-Shirt,Nike,T-Shirt,Black,M,1799,8,4.5
+P012,Adidas Essentials T-Shirt,Adidas,T-Shirt,White,L,1499,5,4.2
+P013,Puma Training Shorts,Puma,Shorts,Black,M,1299,6,4.3
+P014,Nike Heritage Backpack,Nike,Backpack,Black,One Size,2499,4,4.6
+P015,Adidas Sports Bottle,Adidas,Accessories,Black,750ml,799,10,4.4
+P016,Adidas Duramo SL,Adidas,Running Shoes,Black,9,4599,4,4.4
