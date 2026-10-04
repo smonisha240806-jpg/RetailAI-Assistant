@@ -101,8 +101,8 @@ st.subheader("💬 Customer Requirement")
 user_query = st.text_area(
     "Enter the customer's request:",
     placeholder=(
-        "Example: Customer wants black Nike running "
-        "shoes size 8 under Rs. 5000"
+         "Describe what the customer is looking for — "
+        "product, brand, color, size and budget."
     ),
     height=100
 )
